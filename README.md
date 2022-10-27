@@ -14,7 +14,7 @@ Web API project that will give the user 3 options to choose from. In my case I c
 4. Then look for the "Now listening on:" and there should be a local host URL that you can copy.
 5. Take that URL and you can either paste it into a web browser, or by using an application called Postman, you can hit the plus sign at the top of Postman and paste the URL there.
 6. After you paste the localhost URL either into a browser or postman, add /MiniCh9 at the end and press send. For example: https://localhost:7267/MiniCh9 and this will lead you to an instructions page to help guide you through the application! *See end of directions for what the Instructions page will look like.*
-7. After you paste the localhost URL either into a web browser or Postman, add /Restaurant to the end. It should look something like this: https://localhost:7267/minich9/Restaurant/
+7. Next you're going to add /Restaurant to the end of your URL. It should look something like this: https://localhost:7267/minich9/Restaurant/
 8. At this point you're almost done! Just add a /option (but with your preferred restaurant option ASIAN, FAST, or DRINKS) at the end of the URL and press send! For example my URL would look like this: https://localhost:7267/minich9/Restaurant/ASIAN. (You can replace ASIAN for the other options as needed).
 9. If you're having trouble don't forget to check your local host to make sure you're using the right number and ensure that you ran the debug before attempting to use the URL in your web browser or Postman.
 
