@@ -5,7 +5,7 @@ Brandon Le
 
 Mini Challenge 9 - Restaurant Picker Endpoint
 
-Web API project that will give the user 3 options to choose from.In my case I chose asian food, fast food, and beverages as my 3 options. There is an instructions page at /minich9/ But by entering ASIAN, FAST, or DRINKS the user will get a randomized restaurant/business sent back to them. I also included error messages for when anything else is entered it will prompt them to enter it in correctly and I also provided links that they can click as well.
+Web API project that will give the user 3 options to choose from. In my case I chose asian food, fast food, and beverages as my 3 options. There is an instructions page at /minich9/ But by entering ASIAN, FAST, or DRINKS the user will get a randomized restaurant/business sent back to them. I also included error messages for when anything else is entered it will prompt them to enter it in correctly and I also provided links that they can click as well.
 
 # Directions:
 1. Open the file in visual studio code.
